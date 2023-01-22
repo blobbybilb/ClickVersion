@@ -5,6 +5,7 @@ simple 1-click versioning based on git, made to be an extremely simple way for n
 
 Note: currently in alpha and/or beta, missing features and may be unreliable, but it *should* work for the most part
 
-TODO:
+###### TODO:
 - option to discard changes since last version
 - show how to restore versions
+- downloads that make more sense for people who don't know which CPU architecture they have
